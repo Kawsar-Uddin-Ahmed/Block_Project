@@ -1,0 +1,186 @@
+/*-------------------------green------------------------------*/
+.headersection{
+    background: #FF0000 none repeat scroll 0 0;
+      color: #fff;
+}
+.icon a{ background: #2d9d2d none repeat scroll 0 0;}
+
+/*For search box*/
+.searchbtn input[type="text"] {
+    border: 1px solid #FF0000;
+    width: 200px;
+    background: #FF0000;
+    font-size: 16px;
+    height: 20px;
+}
+/*----------------------------------*/
+/*For search button*/
+.searchbtn input[type="submit"] {
+    border: 1px solid #FF0000;
+  }
+  .searchbtn input[type="submit"]:hover 
+  {
+    background: #FF0000 none repeat scroll 0 0;
+    border: 1px solid #FF0000;
+    color:#fff;
+  }
+  input[type="submit"] {
+    background: #FF0000 none repeat scroll 0 0;
+    border: 1px solid #FF0000;
+   }
+  /*----------------------------------*/
+  /*-----For navigation------------*/
+  .navsection {
+    background: none repeat scroll 0 0 #FF0000;;
+    min-height: 38px;
+}
+
+.navsection ul li {
+    border-left: 1px solid #FF0000;
+    border-right: 1px solid #FF0000;
+    display: block;
+    float: left;
+    position: relative;
+}
+  /*-----------------*/
+   /*----For post title*/
+  .samepost h2 a {
+    color: #FFF;
+    text-decoration: none;
+}
+  /*-------------*/
+  /*----For maincontent------------*/
+  .maincontent{
+    background: #FF3737  none repeat scroll 0 0;
+    border: 1px solid #FF0000;
+    float: left;
+    margin: 0 15px 15px 0;
+    padding: 8px 15px;
+    width: 606px;
+}
+/*------For maincontent and background of points of categories and Latest articles*/
+.samesidebar{
+
+    background: #FFAFAF  none repeat scroll 0 0;
+    border: 1px solid #FFEFEF;
+    float: left;
+    margin: 0 15px 15px 0;
+    padding: 8px 15px;
+    width: 606px;
+
+}
+/*----*/
+  /*-------*/
+  /*------For readmore----------*/
+  .readmore a {
+
+    background: #AF3636  none repeat scroll 0 0;
+    border: 1px solid #FF0000;
+    border-radius: 3px;
+    color: #FFF;
+    display: block;
+    font-size: 17px;
+    padding: 4px 8px;
+    text-decoration: none;
+
+}
+/*It will show color: black when you put cursor on it*/
+.readmore a:hover {
+
+    background: #AF3636  none repeat scroll 0 0;
+    border: 1px solid #AF3636;
+    border-radius: 3px;
+    color: #333;
+  }
+  /*-----*/
+  /*------------------------------*/
+  /*---For pagination*/
+  .pagination a {
+    background: #FF0000 none repeat scroll 0 0;
+    border: 1px solid #FF0000;
+    border-radius: 3px;
+    color: #ffff;
+    margin-left: 2px;
+    padding: 2px 10px;
+    text-decoration: none;
+}
+/*It will show color: black when you put cursor on it*/
+.pagination a:hover {
+    background: #FF0000 none repeat scroll 0 0;
+    border: 1px solid #FF0000;
+    border-radius: 3px;
+    color: #333;
+    }
+    /*-----*/
+  /*--------*/
+
+  /*---For categories and latest articles name*/
+  .samesidebar h2 {
+    background: #FF0000  none repeat scroll 0 0;
+    border-bottom: 1px solid #FF0000;
+    color: #ffff;
+    margin-bottom: 8px;
+
+}
+/*------------------------------*/
+/*----For margin of maincontent of background out of the postlink place*/
+  .contentsection{
+    background: #ffff none repeat scroll 0 0;
+    border: 1px solid #FF0000;
+}
+  /*---------*/
+  /*---For footer menu*/
+.footersection {
+    height: 90px;
+    background: #FF0000;
+    text-align: center;
+}
+.footermenu ul li a {
+    color: #fff;
+    font-size: 18px;
+    margin-right: 5px;
+}
+/*----------*/
+/*-----For the back-ground of categories and latest articles side bar borders---*/
+.sidebar {
+    background: #FF0000 none repeat scroll 0 0;
+    border: 1px solid #FF0000;
+    float: left;
+    margin-bottom: 15px;
+    margin-top: 0;
+    padding: 10px;
+    width: 253px;
+}
+/*-------------*/
+/*For the border of image---------*/
+.samepost img {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #FF0000;
+    float: left;
+    margin-right: 10px;
+    padding: 5px;
+    width: 200px;
+}
+/*---------*/
+/*For the border of image after clicking the readmore option--*/
+.about img {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #FF0000;
+    float: left;
+    height: 190px;
+    margin-right: 10px;
+    padding: 5px;
+    width: 300px;
+}
+/*-----------------*/
+/*---Related articles bar-----*/
+.relatedpost h2 {
+    background: #FF0000 none repeat scroll 0 0;
+    border-bottom: 2px solid #FF0000 !important;
+    color: #fff !important;
+    margin-bottom: 8px !important;
+    margin-top: 15px;
+    padding-left: 10px !important;
+}
+/*---------------*/
+  /*-----------------green/////--------------------*/
